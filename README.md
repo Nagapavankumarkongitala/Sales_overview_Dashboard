@@ -163,7 +163,7 @@ YoY Qty =
 ```
 - **Necessity** : This formula calculates the year-over-year quantity growth percentage.
 
-
+![alttext]()
 # Conclusion
 . The Sales Overview Dashboard is an invaluable tool for analyzing sales performance across different regions and states.
 
@@ -176,4 +176,3 @@ YoY Qty =
 . These DAX formulas are essential for providing detailed and accurate insights into sales performance, profit trends, and quantity growth over time. They enable year-over-year comparisons and help identify areas of improvement or success.
 ```
 
-Feel free to use this markdown text for your documentation or presentation!
